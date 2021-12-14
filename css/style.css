@@ -1,0 +1,86 @@
+body {
+    font-family: Averta, sans-serif;
+    background-color: rgb(238, 238, 245);
+  }
+nav {
+    background-color: #55595C;
+}
+a.navbar-brand{
+    font-weight: bold;
+}
+.display {
+    background-color:#030303;
+}
+.introduction {
+    border: 1px solid rgba(35, 41, 41, 0.199);
+    border-radius: 10px;
+}
+.introduction-header{
+    font-size: 45px;
+}
+.introduction-text {
+    font-size: 25px;
+}
+.overview{
+    height: auto;
+    padding: 50px;
+    border: 1px solid rgba(35, 41, 41, 0.199);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.overview-header{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(49, 47, 45);
+}
+.overview-text{
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(55, 59, 59);
+}
+.skills-div{
+    border: 1px solid rgba(35, 41, 41, 0.199);
+    border-radius: 10px;
+}
+.other {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.footer {
+    background-color: #55595C;
+    margin-top: 100px;
+}
+.footer-text{
+    text-align: center;
+    max-width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+    color: white;
+    text-transform: uppercase;
+}
+.contact-body{
+  
+    font-family: Averta, sans-serif;
+    background-color: rgb(238, 238, 245);
+}
+.contact-overview{
+    height: auto;
+    padding: 100px;
+    text-align: left;
+}
+.contact-overview-header{
+    font-size: 45px;
+    color: rgb(49, 47, 45);
+}
+.contact-overview-text{
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(55, 59, 59);
+}
+.my-pic{
+    margin-top: 20px;
+    width: 100%;
+    padding: 20px;
+    align-self: left;
+}
